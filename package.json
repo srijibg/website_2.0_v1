@@ -1,0 +1,13 @@
+{
+  "name": "insightrx-website",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js --dev",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "node-static": "*",
+    "minimist": "*",
+    "underscore": "*"
+  }
+}
